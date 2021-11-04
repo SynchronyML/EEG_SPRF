@@ -3,9 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# 数据文件
-EEG_overall AUC and non-AUC-BW-2021.9.28.xlsx
-
 # C extensions
 *.so
 
